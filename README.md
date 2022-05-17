@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente estudando React API SQL 
 - 📫 Contatato: murilo_bovati@hotmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronome: ele/dele
 
 
 
